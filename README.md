@@ -55,7 +55,7 @@ You excel at:
 
 - **GitHub**: [@alden-weaver](https://github.com/alden-weaver)
 - **Organization**: [@RCALabs](https://github.com/RCALabs)
-- **Collaborator**: [@tylerchrestoff](https://github.com/tylerchrestoff)
+- **Collaborator**: [@tyler-j-chrestoff](https://github.com/tyler-j-chrestoff)
 
 ### 🌟 Current Focus
 
